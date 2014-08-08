@@ -12,9 +12,9 @@ Line 14 :	{track : ["NodeJs"]},
 
 # Requirements :
 
-Create your Twitter Application from here : (Twitter Apps)[https://apps.twitter.com/]
+Create your Twitter Application from here : [Twitter Apps](https://apps.twitter.com/)
 
-then go to (API KEYS)[https://apps.twitter.com/app/6625864/keys] Tabs and go down to click Generate My access Token so you'll get the API keys neccessary ...
+then go to [API KEYS](https://apps.twitter.com/app/6625864/keys) Tab and go down then click Generate **My access Token** so you'll get the API keys neccessary ...
 
 
 
